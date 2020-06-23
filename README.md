@@ -12,3 +12,5 @@ Kindly contact if any quesitons. lol
 Newly added one script that can run under docker container mediapipe.
 
 It helps you convert multiple files into single tfrecord.
+
+p.s. now only works for video with audio, I'm working on script works for video without audio.
