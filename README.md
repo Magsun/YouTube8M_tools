@@ -14,3 +14,9 @@ Newly added one script that can run under docker container mediapipe.
 It helps you convert multiple files into single tfrecord.
 
 p.s. now only works for video with audio, I'm working on script works for video without audio.
+
+###################### updated 2020/06/29 ##########################
+
+Now this script can process videos with or without audio in it.
+
+Hint: need to modify the absolute path of bazel-bin and calculator_graph_config_file before you run the script.
